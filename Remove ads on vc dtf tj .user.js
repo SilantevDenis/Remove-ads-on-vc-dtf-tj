@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Remove Ads on vc dtf tj
 // @namespace    http://tampermonkey.net/
-// @version      1.1
+// @version      1.0
 // @description  Remove ads on vc dtf tj
 // @author       silantevdenis
 // @match        https://vc.ru/*
